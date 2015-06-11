@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Ubicacion</string>
+
+    <string name="activar">On</string>
+    <string name="desactivar">Off</string>
+    <string name="estadoprov">Estado</string>
+    <string name="posicion_actual">P O S I C I O N</string>
+
+    <string name="latitud">Latitud: </string>
+    <string name="longitud">Longitud: </string>
+    <string name="presision">Precision:</string>
+    <string name="proveedor">Provedor</string>
+</resources>
